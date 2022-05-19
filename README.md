@@ -1,6 +1,4 @@
-# Hello! I am a front web developer and I like technology in general.
-## I program in js, python, pascal and go (or at least I try). 👋
-### I’m currently working for the argentinian army developing GesSis
+#      😊🎞🕹👨‍💻🏊‍♂️
 <!--
 **Zynno-Dev/Zynno-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
